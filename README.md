@@ -4,11 +4,9 @@
   <img src="https://github.com/lstarke/fraude_cartao_credito/blob/main/credit-cards-that-are-stacked-neatly-together.jpg" alt="covid" height=400px >
 </p>
 
-## Panorama COVID-19
+## Detectando fraudes em cartão de crédito
 
-Utilizando dados do portal [Our World in Data](https://ourworldindata.org), neste projeto exploro os dados disponibilizados para entender melhor o cenário atual referente a pandemia. O objetivo deste projeto é utilizar estes dados para entender o potencial da biblioteca matplotlib, uma das bibliotecas mais conhecidas para a geração de gráficos com Python. Com auxílio da biblioteca matplotlib tento, através de gráficos, entender melhor os dados e seu comportamento ao longo da pandemia, comparando variáveis e criando algumas hipóteses com a minha interpretação dos dados.
-
-[Link para o projeto completo](https://bit.ly/3RUrZQw)
+Neste projeto aplico técnicas aprendidas para criar um modelo de machine learning para a detecção de fraudes em cartão de crédito. Assuntos como métricas de avaliação, balanceamento de classes são aprofundados e são os temas de  interesse neste projeto.
 
 **Me encontre nos links:**
 * [Medium](https://medium.com/@leandro.starke)
